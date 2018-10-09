@@ -1,2 +1,2 @@
-# SIlmple-Digital-Clock
-SImple digital clock based on JS
+# Simple-Digital-Clock
+Simple digital clock based on JS
